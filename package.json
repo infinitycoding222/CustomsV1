@@ -1,0 +1,20 @@
+{
+  "name": "cc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "nodemon index.js"
+  },
+  "author": "Infinity Development",
+  "license": "ISC",
+  "dependencies": {
+    "@extreme_hero/deeptype": "^1.0.1",
+    "sourcebin": "^3.2.5",
+    "testwr": "^2.3.2",
+    "util": "^0.12.3",
+    "utils": "^0.3.1",
+    "vultrex.haste": "^1.0.1"
+  }
+}
