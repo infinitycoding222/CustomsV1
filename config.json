@@ -1,0 +1,14 @@
+{
+    "prefix": "bl",
+    "token": "ODM2NzE3ODk0NjQ4ODU2NTc3.YIiEQw.v14hUjy-H8Pk8WOEKJlH7mw3uf0",
+    "color": "#f27d0c",
+    "developerid": ["473276250815856650", "780079091172900884"],
+    "admins": "",
+    "denied": "#cf000f",
+    "accepted": "#00b16a",
+    "defaultPerms": ["SEND_MESSAGES", "VIEW_CHANNEL"],
+    "config": {
+        "copyright": "© White Wolf Development",
+        "version": "1.0.0"
+    }
+}
